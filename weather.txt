@@ -1,0 +1,25 @@
+
+
+WEATHER STATS FOR:KERALA
+Current temperature: 27.82000000000005deg C
+Current weather description: overcast clouds
+Current humidity: 95%
+Current wind speed: 27.82000000000005kmph
+
+WEATHER STATS FOR:DELHI
+Current temperature: 37.05000000000001deg C
+Current weather description: haze
+Current humidity: 28%
+Current wind speed: 37.05000000000001kmph
+
+WEATHER STATS FOR:MUMBAI
+Current temperature: 29.99000000000001deg C
+Current weather description: haze
+Current humidity: 79%
+Current wind speed: 29.99000000000001kmph
+
+WEATHER STATS FOR:GOA
+Current temperature: 28.210000000000036deg C
+Current weather description: overcast clouds
+Current humidity: 87%
+Current wind speed: 28.210000000000036kmph
